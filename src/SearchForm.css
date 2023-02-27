@@ -1,0 +1,29 @@
+.search-form-container {
+    background-color: #f2f2f2;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .search-form-container h3 {
+    margin-top: 0;
+  }
+  
+  .search-results-container {
+    background-color: #e6f9ff;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .search-results-container h3 {
+    margin-top: 0;
+    color: #0077b6;
+  }
+  .form-button{
+    margin-top: 10px;
+  }
+  .form-label{
+    color: rgb(255, 5, 5);
+    font-weight: bold;
+  }
